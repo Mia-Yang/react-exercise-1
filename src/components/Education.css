@@ -1,0 +1,22 @@
+.detail {
+    padding: 20px;
+    padding-top: 0;
+}
+li {
+    margin-top: 20px;
+}
+.year {
+    font-weight: bold;
+    float: left;
+}
+
+.box {
+    padding: 10px;
+    background-color: #ededed;
+    margin-left: 80px;
+}
+
+.location {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
